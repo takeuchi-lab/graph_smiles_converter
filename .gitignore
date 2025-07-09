@@ -1,0 +1,4 @@
+*.csv
+*.graph
+sources/__pycache__
+outputs/*
